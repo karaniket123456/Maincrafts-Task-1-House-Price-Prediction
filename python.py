@@ -1,0 +1,1 @@
+print("Amniket ikjhgff2345678kr")
